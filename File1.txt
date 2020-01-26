@@ -1,4 +1,5 @@
 Hello World!!
+<<<<<<< HEAD
 Hello Fiends
 
 
@@ -8,3 +9,7 @@ helloooo
 Visit again!!
 
 >>>>>>> Branch1
+=======
+Hello Friends
+Welcome
+>>>>>>> 738df421ea64b37dce906cade8aa156ce35917f3
